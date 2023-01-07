@@ -1,0 +1,14 @@
+/Users/shukufa/Projects/all I have learned/all I have learned/bin/Debug/netcoreapp3.1/all I have learned
+/Users/shukufa/Projects/all I have learned/all I have learned/bin/Debug/netcoreapp3.1/all I have learned.deps.json
+/Users/shukufa/Projects/all I have learned/all I have learned/bin/Debug/netcoreapp3.1/all I have learned.runtimeconfig.json
+/Users/shukufa/Projects/all I have learned/all I have learned/bin/Debug/netcoreapp3.1/all I have learned.runtimeconfig.dev.json
+/Users/shukufa/Projects/all I have learned/all I have learned/bin/Debug/netcoreapp3.1/all I have learned.dll
+/Users/shukufa/Projects/all I have learned/all I have learned/bin/Debug/netcoreapp3.1/all I have learned.pdb
+/Users/shukufa/Projects/all I have learned/all I have learned/obj/Debug/netcoreapp3.1/all I have learned.csproj.AssemblyReference.cache
+/Users/shukufa/Projects/all I have learned/all I have learned/obj/Debug/netcoreapp3.1/all I have learned.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shukufa/Projects/all I have learned/all I have learned/obj/Debug/netcoreapp3.1/all I have learned.AssemblyInfoInputs.cache
+/Users/shukufa/Projects/all I have learned/all I have learned/obj/Debug/netcoreapp3.1/all I have learned.AssemblyInfo.cs
+/Users/shukufa/Projects/all I have learned/all I have learned/obj/Debug/netcoreapp3.1/all I have learned.csproj.CoreCompileInputs.cache
+/Users/shukufa/Projects/all I have learned/all I have learned/obj/Debug/netcoreapp3.1/all I have learned.dll
+/Users/shukufa/Projects/all I have learned/all I have learned/obj/Debug/netcoreapp3.1/all I have learned.pdb
+/Users/shukufa/Projects/all I have learned/all I have learned/obj/Debug/netcoreapp3.1/all I have learned.genruntimeconfig.cache
